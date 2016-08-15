@@ -1,0 +1,7 @@
+---
+development:
+  feature: true
+production:
+  feature: true
+test:
+  feature: true

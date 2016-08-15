@@ -1,8 +1,0 @@
-development:
-   feature: false
-
-production:
-   feature: true
-
-test:
-   feature: true
